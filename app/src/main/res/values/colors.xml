@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primary_color">#FFFFFF</color>
+
+    <color name="primary_dark_color">#006064</color>
+
+    <color name="tan_background">#b2ebff</color>
+
+    <color name="category_sanremo2017">#00acc1</color>
+
+    <color name="category_sanremo2018">#00b8d4</color>
+
+</resources>

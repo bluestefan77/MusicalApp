@@ -1,0 +1,6 @@
+
+<resources>
+    <string name="app_name">Festival di San Remo</string>
+    <string name="category_sanremo2017">San Remo 2017</string>
+    <string name="category_sanremo2018">San Remo 2018</string>
+</resources>
